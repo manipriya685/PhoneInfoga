@@ -14,7 +14,7 @@ from lib.banner import banner, __version__
 from lib.output import *
 from lib.format import *
 from lib.logger import Logger
-from lib.googlesearch import closeBrowser
+from lib.googlesearch import openbrowser
 # scanners
 from scanners import numverify
 from scanners import localscan
